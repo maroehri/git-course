@@ -2,7 +2,7 @@
 
 ## First Steps
 
-In this section you will learn how to use the fundamentals of git and its associtated commands. It will also include some demo code.
+In order to understand how git works, this section will provide an overview of the most fundamental commands.
 
 ### git init
 
