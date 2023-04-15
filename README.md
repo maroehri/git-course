@@ -4,8 +4,10 @@
 
 This section is supposed to provide some first steps material.
 
-Add a list of all different git commands and their purpose.
-
 ### git init
 
-The command git init is used in order to initialize a new git repository
+The command `git init` is used in order to initialize a new git repository
+
+### git add
+
+The command `git add` moves files from the working directory into the staging area
