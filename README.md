@@ -2,6 +2,4 @@
 
 ## First Steps
 
-This section is supposed to provide some first steps material.
-
-Add a list of all different git commands and their purpose.
+In this section you will learn how to use the fundamentals of git and its associtated commands.
