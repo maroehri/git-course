@@ -1,8 +1,8 @@
 # Teaching Git for Newcomers
 
-## First Steps
+## Basic Commands
 
-In order to understand how git works, this section will provide an overview of the most fundamental commands.
+This section will provide an introduction to the fundamentals of git and its associtated commands. It will also include some demo code.
 
 ### git init
 
