@@ -1,6 +1,6 @@
 # Teaching Git for Newcomers
 
-## Basic Git Commands
+## My Basic Git Commands
 
 This section will provide an introduction to the fundamentals of git and its associtated commands. It will also include some demo code.
 
