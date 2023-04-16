@@ -2,7 +2,7 @@
 
 ## Basic Git Commands
 
-This section will provide an introduction to the fundamentals of git and its associtated commands. It will also include some demo code.
+In this section you will learn how to use the fundamentals of git and its associtated commands. It will also include some demo code.
 
 ### git init
 
