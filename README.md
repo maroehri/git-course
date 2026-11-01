@@ -1,7 +1,7 @@
 # Teaching Git for Newcomers
 
-## First Steps
+## Basic Commands
 
-This section is supposed to provide some first steps material.
+This section introduces the fundamentals of git.
 
 Add a list of all different git commands and their purpose.
