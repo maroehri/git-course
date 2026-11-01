@@ -13,3 +13,4 @@ The command `git push` can be used to push changes to a remote repository
 ### git log
 
 The command `git log` lists the commits of the current branch.
+With `--oneline`, each commit is shown in one line.
