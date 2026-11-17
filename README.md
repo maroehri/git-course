@@ -8,4 +8,4 @@ Add a list of all different git commands and their purpose.
 
 ## git push
 
-The command `git push` allows you to push changes from your local repo to the remote repo.
+The command `git push` allows you to push changes from your local repo to the remote repo. Have fun.
